@@ -1,8 +1,8 @@
-# ShadowsocksX-NG
+# ImgLib2Access
 
-[Download](https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest)
+[Download](https://github.com/shadowsocks/ImgLib2Access/releases/latest)
 
-[![Actions Status](https://github.com/shadowsocks/ShadowsocksX-NG/workflows/CI/badge.svg)](https://github.com/shadowsocks/ShadowsocksX-NG/actions)
+[![Actions Status](https://github.com/shadowsocks/ImgLib2Access/workflows/CI/badge.svg)](https://github.com/shadowsocks/ImgLib2Access/actions)
 
 Next Generation of [ShadowsocksX](https://github.com/shadowsocks/shadowsocks-iOS)
 
@@ -29,7 +29,7 @@ macOS 10.12+
 
 ## Download
 
-From [here](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)
+From [here](https://github.com/shadowsocks/ImgLib2Access/releases/)
 
 ## Features
 
