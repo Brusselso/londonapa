@@ -1,4 +1,4 @@
-# ImgLib2Access
+# Galaxy
 
 [Download](https://github.com/shadowsocks/ImgLib2Access/releases/latest)
 
